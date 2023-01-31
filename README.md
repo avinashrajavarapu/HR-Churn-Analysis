@@ -4,6 +4,7 @@ K-Means Clustering Project:
 This project uses the K-Means clustering algorithm to group employees based on their job satisfaction and average monthly hours worked.
 
 Requirements
+
 1.Python 3.7 or above
 2.Pandas
 3.Numpy
