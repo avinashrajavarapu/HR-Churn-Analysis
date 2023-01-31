@@ -1,0 +1,18 @@
+Problem Description
+
+The employee churn rate in a company has increased in the current year in comparison to last year. This may be a challenge for the company for completion of projects and other important things. The management wants to understand the reason behind the churn and take appropriate actions to check it. There are many factors which can cause the employee churn, like employee satisfaction level, working hours for the project, work accident, promotion etc.
+The HR in the company suspects that there may be certain pattern in the employee churning. They want to understand this pattern and take decisions/precautions based on that to check the churn rate.
+
+Problem 1
+
+The HR would like to understand the patterns in the employees those are exiting the company and those not using Machine Learning techniques. For achieving this they have to try to:
+• Explore the data and check whether it can be used for analysis as such or it has any missing values (in case of missing values, do not remove the records and go for missing value treatment).
+• Study the variables carefully and keep the variables for analysis which are meaningful. Find the relation between the variables if it exists.
+
+Problem 2
+
+The HR needs to understand similarity of the behaviour based on the chosen variables. To group the employees based on some similarity of behaviour, clustering may be a better technique. To achieve this, do the following:
+• Estimate the number of clusters in the dataset using Elbow method. For better understanding of the number of clusters, the HR wants to visualize the plots of both the techniques. So, plot the result for both the techniques.
+• Use k-means clustering algorithm and Agglomerative clustering algorithm to find the required number of clusters.
+• Examine the rate of churn in each cluster. Find the cluster which has maximum churn and compare this cluster with other clusters which has less churn. Find the characteristic of employees in the cluster which has maximum churn.
+• For better presentation/visualization, plot different clusters in different colours taking any two variables. Mark the churned employees in different colour (in all the clusters).
